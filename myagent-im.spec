@@ -1,6 +1,6 @@
 Name:		myagent-im
 Version:	0.4.6
-Release:	1
+Release:	2
 Summary:	Instant messenger that supports Mail.ru protocol
 Group:		Networking/Instant messaging
 License:	GPLv2
