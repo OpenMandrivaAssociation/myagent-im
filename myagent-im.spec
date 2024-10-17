@@ -4,7 +4,7 @@ Release:	2
 Summary:	Instant messenger that supports Mail.ru protocol
 Group:		Networking/Instant messaging
 License:	GPLv2
-URL:		http://code.google.com/p/myagent-im
+URL:		https://code.google.com/p/myagent-im
 Source0:	http://myagent-im.googlecode.com/files/%{name}_%{version}.tar.gz
 BuildRequires:	qt4-devel, flex, pkgconfig, libxscrnsaver1-devel
 BuildRequires:	zlib1-devel, libxapian-devel, libaspell-devel
