@@ -6,6 +6,7 @@ Group:		Networking/Instant messaging
 License:	GPLv2
 URL:		https://code.google.com/p/myagent-im
 Source0:	http://myagent-im.googlecode.com/files/%{name}_%{version}.tar.gz
+BuildRequires:	make
 BuildRequires:	qt4-devel, flex, pkgconfig, libxscrnsaver1-devel
 BuildRequires:	zlib1-devel, libxapian-devel, libaspell-devel
 
